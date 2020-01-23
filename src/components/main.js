@@ -38,10 +38,7 @@ export default function main() {
               
                <Switch>
                <Route exact path="/" component={this}/>
-       
-              
-
-               <Route component={NoMatch} />
+{/*            <Route component={NoMatch} /> */}
                </Switch>
            </Router>
            <GameBoard/>
