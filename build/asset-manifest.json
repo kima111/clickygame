@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kima111/clicky-game/static/css/main.74ffd4da.chunk.css",
-    "main.js": "/kima111/clicky-game/static/js/main.e6aef5c1.chunk.js",
-    "main.js.map": "/kima111/clicky-game/static/js/main.e6aef5c1.chunk.js.map",
-    "runtime-main.js": "/kima111/clicky-game/static/js/runtime-main.550cc5a3.js",
-    "runtime-main.js.map": "/kima111/clicky-game/static/js/runtime-main.550cc5a3.js.map",
-    "static/js/2.5d25155a.chunk.js": "/kima111/clicky-game/static/js/2.5d25155a.chunk.js",
-    "static/js/2.5d25155a.chunk.js.map": "/kima111/clicky-game/static/js/2.5d25155a.chunk.js.map",
-    "index.html": "/kima111/clicky-game/index.html",
-    "precache-manifest.402c96789452daf1a753e97d89e34112.js": "/kima111/clicky-game/precache-manifest.402c96789452daf1a753e97d89e34112.js",
-    "service-worker.js": "/kima111/clicky-game/service-worker.js",
-    "static/css/main.74ffd4da.chunk.css.map": "/kima111/clicky-game/static/css/main.74ffd4da.chunk.css.map",
-    "static/js/2.5d25155a.chunk.js.LICENSE": "/kima111/clicky-game/static/js/2.5d25155a.chunk.js.LICENSE",
-    "static/media/background.jpg": "/kima111/clicky-game/static/media/background.195cd523.jpg"
+    "main.css": "/clicky-game/static/css/main.74ffd4da.chunk.css",
+    "main.js": "/clicky-game/static/js/main.e6aef5c1.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.e6aef5c1.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.24c47d54.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.24c47d54.js.map",
+    "static/js/2.5d25155a.chunk.js": "/clicky-game/static/js/2.5d25155a.chunk.js",
+    "static/js/2.5d25155a.chunk.js.map": "/clicky-game/static/js/2.5d25155a.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.93c7e593aa85c7f879276735a7cf06a7.js": "/clicky-game/precache-manifest.93c7e593aa85c7f879276735a7cf06a7.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.74ffd4da.chunk.css.map": "/clicky-game/static/css/main.74ffd4da.chunk.css.map",
+    "static/js/2.5d25155a.chunk.js.LICENSE": "/clicky-game/static/js/2.5d25155a.chunk.js.LICENSE",
+    "static/media/background.jpg": "/clicky-game/static/media/background.195cd523.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.550cc5a3.js",
+    "static/js/runtime-main.24c47d54.js",
     "static/js/2.5d25155a.chunk.js",
     "static/css/main.74ffd4da.chunk.css",
     "static/js/main.e6aef5c1.chunk.js"
