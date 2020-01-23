@@ -1,0 +1,99 @@
+[
+    {
+      "src": "/images/Transformers/blaster.jpg",
+      "title": "Word Guessing Game",
+      "description": "See if you can guess the words. App demonstrating the use of pure javascript.",
+      "format": "col-3",
+      "projectURL": "https://kima111.github.io/Word-Guess-Game/",
+      "githuborheroku": "github"
+    },
+    {
+     "src": "/images/Transformers/Bumblebee.jpg",
+     "title": "Street Fighter RPG Game",
+     "description": "See if you can outlast your opponent who ever that may be. Usage of jquery.",
+     "format": "col-3",
+     "projectURL": "https://kima111.github.io/unit-4-game/",
+     "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/devastator.jpg",
+      "title": "Trivia Game",
+      "description": "Take a quiz and see how much of a minimalist you are. Demonstrating the use of momentum and jquery.",
+      "format": "col-3",
+      "projectURL": "https://kima111.github.io/TriviaGame/",
+      "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/grimlock.jpg",
+      "title": "Gif Generator",
+      "description": "An app that pulls in gifs, what ever that gif may be. Showing the usage of an API call and rendering using jquery and javascript.",
+      "format": "col-3",
+      "projectURL": "https://kima111.github.io/gifTastic/",
+      "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/IronHide.jpg",
+      "title": "Rock Paper Scissors Multiplayer Game",
+      "description": "Challenge a friend to Rock Paper Scissors online. An app connected to Firebase online.",
+      "format": "col-3",
+      "projectURL": "https://kima111.github.io/RPS-Multiplayer/",
+      "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/jazz.jpg",
+      "title": "What's Cooking App",
+      "description": "A recipe app that allows you to group, edit, and save to a deck app. Demonstrating a group project collaboration within Github.",
+      "format": "col-3",
+      "projectURL": "http://www.jessicasills.com/Project-1/",
+      "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/megatron.jpg",
+      "title": "Liri Bot",
+      "description": "A bot that will console out different information that is tied to APIs. Connected using API calls within the Node.js server.",
+      "format": "col-3",
+      "projectURL": "https://github.com/kima111/liri-node-app",
+      "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/optimus_prime.jpg",
+      "title": "Bamazon App",
+      "description": "This is a Command Line Interface app which will work a lot like a purchasing terminal deomonstrating the use of node.js which is connected to MySQL database",
+      "format": "col-3",
+      "projectURL": "https://github.com/kima111/bamazon",
+      "githuborheroku": "github"
+    },
+    {
+      "src": "/images/Transformers/Perceptor.png",
+      "title": "Friend Finder",
+      "description": "Looking for friends. Look no further. Here is app that will take in a survey. Demonstrating MySQL and javascript.",
+      "format": "col-3",
+      "projectURL": "https://dry-reaches-71306.herokuapp.com/",
+      "githuborheroku": "heroku"
+    },
+    {
+      "src": "/images/Transformers/ravage.jpg",
+      "title": "Burgers",
+      "description": "Here is a menu style app that will help you track your burgers! Showing usage of Express, Node.js, and javascript working together.",
+      "format": "col-3",
+      "projectURL": "https://afternoon-sierra-83583.herokuapp.com/",
+      "githuborheroku": "heroku"
+    },
+    {
+      "src": "/images/Transformers/Rodimus.jpg",
+      "title": "Prodigies",
+      "description": "A spot where you can find kid friendly games and ratings. Another group project combining Express, Node.js, Handlebars, and Javascript within a group project.",
+      "format": "col-3",
+      "projectURL": "https://young-cliffs-20678.herokuapp.com/",
+      "githuborheroku": "heroku"
+    },
+    {
+      "src": "/images/Transformers/Rumble.jpg",
+      "title": "Prodigies",
+      "description": "A spot where you can find kid friendly games and ratings. Another group project combining Express, Node.js, Handlebars, and Javascript within a group project.",
+      "format": "col-3",
+      "projectURL": "https://young-cliffs-20678.herokuapp.com/",
+      "githuborheroku": "heroku"
+    }
+  ]
+  
